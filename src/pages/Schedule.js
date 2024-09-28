@@ -4,15 +4,15 @@ import VideocamIcon from '@mui/icons-material/Videocam';
 
 const Schedule = () => {
   const preDayEvents = [
-    { date: 'July 1, 2024', event: 'Project Submission Deadline', description: 'All teams must submit their projects by 11:59 PM EAT' },
-    { date: 'July 3, 2024', event: 'Preliminary Judging', description: 'Judges review submitted projects' },
-    { date: 'July 5, 2024', event: 'Finalist Announcement', description: 'Top 10 teams announced via email' },
+    { date: 'October 31, 2024', event: 'Project Submission Deadline', description: 'All teams must submit their projects by 11:59 PM EAT' },
+    { date: 'November 01, 2024', event: 'Preliminary Judging', description: 'Judges review submitted projects' },
+    { date: 'November 02, 2024', event: 'Finalist Announcement', description: 'Top 10 teams announced via email' },
   ];
 
   const googleMeets = [
-    { date: 'October 31, 2024', event: 'Hackathon Kickoff', description: 'Introduction to the hackathon, rules, and Q&A session' },
-    { date: 'November 01, 2024', event: 'Tech Talk: AI in Web Development', description: 'Guest speaker discusses integrating AI into web applications' },
-    { date: 'November 02, 2024', event: 'Project Progress Check-in', description: 'Teams share their progress and get feedback from mentors' },
+    { date: 'October 09, 2024', event: 'Hackathon Kickoff', description: 'Introduction to the hackathon, rules, and Q&A session' },
+    { date: 'October 16, 2024', event: 'Tech Talk: AI in Web Development', description: 'Guest speaker discusses integrating AI into web applications' },
+    { date: 'October 23, 2024', event: 'Project Progress Check-in', description: 'Teams share their progress and get feedback from mentors' },
   ];
 
   const dDayEvents = [
