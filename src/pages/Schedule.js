@@ -88,7 +88,7 @@ const Schedule = () => {
 
         <Paper elevation={3} sx={{ p: 4, mt: 4 }}>
           <Typography variant="h4" component="h3" gutterBottom>
-            D-Day Schedule (July 10, 2024)
+            D-Day Schedule (November 02, 2024)
           </Typography>
           <List>
             {dDayEvents.map((event, index) => (
