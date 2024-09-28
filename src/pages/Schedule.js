@@ -10,9 +10,9 @@ const Schedule = () => {
   ];
 
   const googleMeets = [
-    { date: 'June 15, 2024', event: 'Hackathon Kickoff', description: 'Introduction to the hackathon, rules, and Q&A session' },
-    { date: 'June 22, 2024', event: 'Tech Talk: AI in Web Development', description: 'Guest speaker discusses integrating AI into web applications' },
-    { date: 'June 29, 2024', event: 'Project Progress Check-in', description: 'Teams share their progress and get feedback from mentors' },
+    { date: 'October 31, 2024', event: 'Hackathon Kickoff', description: 'Introduction to the hackathon, rules, and Q&A session' },
+    { date: 'November 01, 2024', event: 'Tech Talk: AI in Web Development', description: 'Guest speaker discusses integrating AI into web applications' },
+    { date: 'November 02, 2024', event: 'Project Progress Check-in', description: 'Teams share their progress and get feedback from mentors' },
   ];
 
   const dDayEvents = [
